@@ -1,12 +1,6 @@
 {
-  "buttons": [
-    {
-      "answer": "Abort",
-      "text": "SAVE & CANCEL REST"
-    }
-  ],
   "json": {
-    "average_import_time_secs": "92 secs",
+    "average_import_time_secs": "138 secs",
     "filestat": [
       {
         "filename": "UdvarHazy_000.fls",
@@ -15,13 +9,13 @@
       },
       {
         "filename": "UdvarHazy_001.fls",
-        "numpts": "10.0 M",
-        "status": "Loaded"
+        "numpts": "-",
+        "status": "Importing file"
       },
       {
         "filename": "UdvarHazy_002.fls",
         "numpts": "-",
-        "status": "Importing file"
+        "status": "Queued for import"
       },
       {
         "filename": "UdvarHazy_003.fls",
@@ -34,8 +28,8 @@
         "status": "Queued for import"
       }
     ],
-    "finish_by": "13:14",
-    "iFile": 3,
+    "finish_by": "13:18",
+    "iFile": 2,
     "nFile": 5,
     "time_stats_available": true
   }
