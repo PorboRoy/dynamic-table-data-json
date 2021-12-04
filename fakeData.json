@@ -1,0 +1,42 @@
+{
+  "buttons": [
+    {
+      "answer": "Abort",
+      "text": "SAVE & CANCEL REST"
+    }
+  ],
+  "json": {
+    "average_import_time_secs": "",
+    "filestat": [
+      {
+        "filename": "UdvarHazy_000.fls",
+        "numpts": "-",
+        "status": "Importing file"
+      },
+      {
+        "filename": "UdvarHazy_001.fls",
+        "numpts": "-",
+        "status": "Queued for import"
+      },
+      {
+        "filename": "UdvarHazy_002.fls",
+        "numpts": "-",
+        "status": "Queued for import"
+      },
+      {
+        "filename": "UdvarHazy_003.fls",
+        "numpts": "-",
+        "status": "Queued for import"
+      },
+      {
+        "filename": "UdvarHazy_004.fls",
+        "numpts": "-",
+        "status": "Queued for import"
+      }
+    ],
+    "finish_by": "",
+    "iFile": 1,
+    "nFile": 5,
+    "time_stats_available": false
+  }
+}
