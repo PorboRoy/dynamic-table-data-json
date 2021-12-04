@@ -6,22 +6,22 @@
     }
   ],
   "json": {
-    "average_import_time_secs": "",
+    "average_import_time_secs": "92 secs",
     "filestat": [
       {
         "filename": "UdvarHazy_000.fls",
-        "numpts": "-",
-        "status": "Importing file"
+        "numpts": "10.1 M",
+        "status": "Loaded"
       },
       {
         "filename": "UdvarHazy_001.fls",
-        "numpts": "-",
-        "status": "Queued for import"
+        "numpts": "10.0 M",
+        "status": "Loaded"
       },
       {
         "filename": "UdvarHazy_002.fls",
         "numpts": "-",
-        "status": "Queued for import"
+        "status": "Importing file"
       },
       {
         "filename": "UdvarHazy_003.fls",
@@ -34,9 +34,9 @@
         "status": "Queued for import"
       }
     ],
-    "finish_by": "",
-    "iFile": 1,
+    "finish_by": "13:14",
+    "iFile": 3,
     "nFile": 5,
-    "time_stats_available": false
+    "time_stats_available": true
   }
 }
